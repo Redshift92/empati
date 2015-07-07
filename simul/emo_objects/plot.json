@@ -1,0 +1,4 @@
+{
+    "dark_object": [ ["valence","r--"],["arousal","g--"],["env_valence","b--"],["env_arousal","y--"],["light","c--"] ],
+    "artist_object": [ ["valence","r--"],["arousal","g--"],["env_valence","b--"],["env_arousal","y--"],["light","c--"] ]
+}

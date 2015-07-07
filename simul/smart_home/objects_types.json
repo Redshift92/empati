@@ -1,0 +1,13 @@
+{
+    "illumination_system": {
+        "env_valence": [ 1,0 ],
+        "env_arousal": [ 0,"1f" ]
+    },
+    "smart_fridge": {
+        "fridge_consumption": [ -0.6, 0.5 ],
+        "fridge_fullness": [ 0.4, 0.5 ]
+    },
+    "generic_object": {
+        "generic_consumption": [ -1, 1 ]
+    }
+}

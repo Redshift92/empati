@@ -1,0 +1,12 @@
+{
+    "dark_object": {
+        "light": [-0.3,0.1,2],
+        "env_valence": [-0.2,0.1],
+        "env_arousal": [0.0,0.2]
+    },
+    "artist_object": {
+      "light": [0.2,0.2,5],
+      "env_valence": [0.1,0.0],
+      "env_arousal": [0.2,0.2]
+    }
+}

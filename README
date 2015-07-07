@@ -1,0 +1,8 @@
+EMPATI: EMPATI Mimics Personalities on Affective Things on Internet
+
+by Lorenzo Rizzello, <redshift92@gmail.com>, Copyright 2015
+
+This software is released under GNU GPL licence v.3
+
+usage: python empaty.py my_simulation
+# my_simulation is the name of the simulation folder placed in simul/

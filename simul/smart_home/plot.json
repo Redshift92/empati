@@ -1,0 +1,5 @@
+{
+    "illumination_system": [ ["valence","r--"],["arousal","g--"],["env_valence","b--"],["env_arousal","y--"] ],
+    "generic_object": [ ["valence","r--"],["arousal","g--"],["generic_consumption","b--"] ],
+    "smart_fridge": [ ["valence","r--"],["arousal","g--"],["fridge_fullness","b--"],["fridge_consumption","y--"] ]
+}
